@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Phone Photo Prints</string>
+    <string name="title">Phone Photo Prints</string>
+    <string name="numPrints">Number of Prints</string>
+    <string name="btnCost">ORDER PRINTS</string>
+    <string name="txtResult">result</string>
+    <string name="btn1">4 x 6 (19 cents)</string>
+    <string name="btn2">5 x 7 (49 cents)</string>
+    <string name="btn3">8 x 10 (79 cents)</string>
+</resources>
